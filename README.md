@@ -1,2 +1,2 @@
 # TFDS_Mod6_Final
-Coursera Tools for Data Science Module 6 Frinal Assignment
+Coursera Tools for Data Science Module 6 Final Assignment
